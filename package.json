@@ -1,0 +1,6 @@
+{
+  "name": "echo",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
